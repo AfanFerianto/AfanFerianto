@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfanFerianto
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning php, javascript
+- 👀 I’m interested in Design & Creative
+- 🌱 I’m currently learning in Graphic Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
